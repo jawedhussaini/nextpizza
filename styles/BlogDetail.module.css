@@ -1,0 +1,17 @@
+.container{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.header{
+    font-size: 30px;
+    color:  #FFB423;
+}
+.desc{
+    color: gray;
+    font-weight: bold;
+}
+.img{
+width: 1000px;
+}

@@ -1,0 +1,45 @@
+.container{
+    background-color: black;
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    color: white;
+
+}
+.wraper{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    display: flex; 
+    flex-direction: column;
+    gap: 15px;
+    padding-left:20px;
+
+}
+.name{
+    font-size: 20px;
+    color:#FFB423;
+}
+.sidelink{
+  width: 150px;
+}
+.logout{
+    width: 45px;
+    font-weight: bold;
+    color: white;
+    background-color: #FFB423;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.span{ cursor: pointer;
+    display: flex;
+    justify-content:space-around;
+    font-weight: bold;
+    width: 250px;
+    padding-right: 0px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.span:hover{
+    background-color:  #FFB423;
+}
